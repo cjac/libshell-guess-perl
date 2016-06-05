@@ -1,0 +1,5 @@
+libshell-guess-perl (0.06-1) unstable; urgency=low
+
+  * Initial Release. (Closes: #778549)
+
+ -- C.J. Collier <cjcollier@linuxfoundation.org>  Sat, 4 Jun 2016 20:04:01 -0400
